@@ -1,4 +1,6 @@
-/**********************************/
+@charset "UTF-8";
+
+**********************************/
 /********** General CSS ***********/
 /**********************************/
 body {
@@ -1201,7 +1203,7 @@ button.btn:hover {
 
 .footer .footer-widget ul li a:hover {
     padding-left: 10px;
-    color: #000046;
+    color: #0789a0;
 }
 
 .footer .contact-info p {
@@ -1314,7 +1316,7 @@ button.btn:hover {
 }
 
 .footer-menu .f-menu a:hover {
-    color: #000046;
+    color: #0789a0;
 }
 
 .footer-menu .f-menu a:last-child {
